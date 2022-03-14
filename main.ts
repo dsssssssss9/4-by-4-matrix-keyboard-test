@@ -1,7 +1,6 @@
 basic.showIcon(IconNames.Heart)
 basic.pause(1000)
 basic.clearScreen()
-led.enable(true)
 keypad.setKeyPad4(
 DigitalPin.P0,
 DigitalPin.P1,
