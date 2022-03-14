@@ -1,3 +1,22 @@
+/**
+ * 4 *4 Matrix keypad
+ * 
+ * **********************
+ * 
+ * Extension:
+ * 
+ * https://github.com/lioujj/pxt-keypad
+ * 
+ * Keys....
+ * 
+ * 1 2 3 A
+ * 
+ * 4 5 6 B
+ * 
+ * 7 8 9 C
+ * 
+ * * 0 # D
+ */
 basic.showIcon(IconNames.Heart)
 basic.pause(1000)
 basic.clearScreen()
