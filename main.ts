@@ -32,5 +32,4 @@ DigitalPin.P16
 )
 basic.forever(function () {
     basic.showString(keypad.getKeyString())
-    basic.pause(100)
 })
